@@ -13,12 +13,12 @@ We need to plan out the animal rescue website before a single line of code can b
 
 Create 1 InVision board with the following pieces of information:
 
-1. Target audience
-2. Website goals
-3. Competitive analysis
-4. Sitemap (including the pages we’re not actually coding)
-6. Visual design: type, colours, sample components (buttons, cards, etc.)
-7. Wireframes: home page, inside page, application form page
+1. **Target audience:** Who will use your website? Be specific. Personas are encouraged.
+2. **Website goals:** What is your website trying to do? How is it trying to do that?
+3. **Competitive analysis:** Find competitors; What do they do well? What do they do poorly?
+4. **Sitemap:** Include all the possible pages that an animal rescue website would need—but we’ll only be coding a few of them—show how they connect to each other
+6. **Visual design**—type & type scale, colours, sample components (buttons, cards, etc.), consider accessibility & performance when making decisions
+7. **Wireframes**—home page, inside page, application form page
   *These should be high-fidelity with some real text—paper is okay but use rulers*
   These are the pages we’ll eventually code
 
