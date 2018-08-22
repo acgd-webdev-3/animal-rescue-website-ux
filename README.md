@@ -27,7 +27,7 @@ Create 1 InVision board with the following pieces of information:
 ## Hand in
 
 1. Create a board on InVision with all the content
-2. Submit the InVision board URL to Canvas
+2. Submit the InVision board URL online
 
 *Example URL:*
 
