@@ -2,7 +2,6 @@
 summary: 'Do the standard UX research and design process for your animal rescue website.'
 time: '2 hours'
 deliverables: '1 InVision board'
-submit: "https://algonquin.instructure.com/courses/847181/assignments/7464325"
 ---
 
 # Animal rescue website UX
@@ -26,15 +25,4 @@ Create 1 InVision board with the following pieces of information:
 
 ## Hand in
 
-1. Create a board on InVision with all the content
-2. Submit the InVision board URL online
-
-*Example URL:*
-
-```
-https://projects.invisionapp.com/boards/MX1IZXSBQ3AY7
-```
-
-### Discuss with the teacher
-
-During the class that this is due you we’ll show the teacher and discuss with them what you’ve created.
+During the class that this is due you we’ll show the teacher and discuss with them what you’ve created. You will be graded at that time.
